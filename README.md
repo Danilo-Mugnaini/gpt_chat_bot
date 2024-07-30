@@ -18,10 +18,3 @@ Before you begin, ensure you have the following:
 - An OpenAI API key
 - Internet connection
 
-### Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/qa-bot.git
-   cd qa-bot
